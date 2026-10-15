@@ -1,0 +1,997 @@
+{
+  "shaileshdarji1311@gmail.com": {
+    "name": "Darji Shailesh",
+    "phone": "9558092509",
+    "salt": "903b48e8df249c834745b20a2935d224",
+    "password_hash": "109db88cdc67eb5cfdc451908f680b7d8d1aca5081ef2cbaecf66af12168d28a",
+    "created_at": "2026-09-23T12:05:32",
+    "email_verified": true,
+    "favorites": [
+      {
+        "City": "Ahmedabad",
+        "Area_Name": "Ashram Road",
+        "BHK": 5,
+        "Area": 3500,
+        "Historical_Price": 151.5687645922792,
+        "saved_at": "23 Sep 2026, 12:26 PM"
+      },
+      {
+        "City": "Ahmedabad",
+        "Area_Name": "Bodakdev",
+        "BHK": 3,
+        "Area": 1500,
+        "Historical_Price": 98.29300091302514,
+        "saved_at": "23 Sep 2026, 02:20 PM"
+      },
+      {
+        "City": "Gandhinagar",
+        "Area_Name": "Adalaj",
+        "BHK": 1,
+        "Area": 926.0,
+        "Historical_Price": 46.94,
+        "saved_at": "23 Sep 2026, 03:01 PM"
+      },
+      {
+        "City": "Rajkot",
+        "Area_Name": "Ghanteshwer",
+        "BHK": 2,
+        "Area": 863.5,
+        "Historical_Price": 47.075,
+        "saved_at": "23 Sep 2026, 03:01 PM"
+      },
+      {
+        "City": "Gandhinagar",
+        "Area_Name": "Randesan",
+        "BHK": 2,
+        "Area": 762.0,
+        "Historical_Price": 55.86,
+        "saved_at": "25 Sep 2026, 09:26 AM"
+      }
+    ],
+    "saved_searches": [
+      {
+        "min_b": 20.0,
+        "max_b": 60.0,
+        "target_budget": 60.0,
+        "user_city": "All Cities",
+        "user_locality": "All Localities",
+        "user_req_bhk": "Any",
+        "user_bath": "Any",
+        "user_area": 0,
+        "gym": false,
+        "pool": false,
+        "cinema": false,
+        "gaming": false,
+        "solar": false,
+        "name": "ahemdabad 2 bhk",
+        "saved_at": "07 Oct 2026, 11:06 AM",
+        "signature": "20.0|60.0|60.0|All Cities|All Localities|Any|Any|0"
+      }
+    ],
+    "recently_viewed": [
+      {
+        "City": "Ahmedabad",
+        "Area_Name": "Bodakdev",
+        "BHK": 3,
+        "Area": 1500,
+        "Historical_Price": 98.29300091302514,
+        "viewed_at": "15 Oct 2026, 01:44 PM"
+      },
+      {
+        "City": "Gandhinagar",
+        "Area_Name": "Adalaj",
+        "BHK": 1,
+        "Area": 926.0,
+        "Historical_Price": 46.94,
+        "viewed_at": "07 Oct 2026, 11:51 AM"
+      },
+      {
+        "City": "Gandhinagar",
+        "Area_Name": "Raysan",
+        "BHK": 1,
+        "Area": 1092.0,
+        "Historical_Price": 58.49,
+        "viewed_at": "07 Oct 2026, 11:39 AM"
+      },
+      {
+        "City": "Ahmedabad",
+        "Area_Name": "Ashram Road",
+        "BHK": 5,
+        "Area": 3500,
+        "Historical_Price": 151.5687645922792,
+        "viewed_at": "07 Oct 2026, 11:14 AM"
+      },
+      {
+        "City": "Ahmedabad",
+        "Area_Name": "Bodakdev",
+        "BHK": 1,
+        "Area": 650,
+        "Historical_Price": 59.40457321563315,
+        "viewed_at": "07 Oct 2026, 11:02 AM"
+      },
+      {
+        "City": "Rajkot",
+        "Area_Name": "Ghanteshwer",
+        "BHK": 2,
+        "Area": 863.5,
+        "Historical_Price": 47.075,
+        "viewed_at": "07 Oct 2026, 10:52 AM"
+      },
+      {
+        "City": "Rajkot",
+        "Area_Name": "Ghanteshwer",
+        "BHK": 1,
+        "Area": 923.0,
+        "Historical_Price": 51.08,
+        "viewed_at": "07 Oct 2026, 10:03 AM"
+      },
+      {
+        "City": "Ahmedabad",
+        "Area_Name": "CG Road",
+        "BHK": 3,
+        "Area": 1500,
+        "Historical_Price": 81.0037526060715,
+        "viewed_at": "05 Oct 2026, 07:19 PM"
+      },
+      {
+        "City": "Ahmedabad",
+        "Area_Name": "Motera",
+        "BHK": 3,
+        "Area": 1500,
+        "Historical_Price": 81.68728715919502,
+        "viewed_at": "05 Oct 2026, 07:14 PM"
+      },
+      {
+        "City": "Ahmedabad",
+        "Area_Name": "Bodakdev",
+        "BHK": 1,
+        "Area": 300,
+        "Historical_Price": 49.76387364947185,
+        "viewed_at": "05 Oct 2026, 06:51 PM"
+      }
+    ],
+    "valuation_history": [
+      {
+        "City": "Ahmedabad",
+        "Area_Name": "Bodakdev",
+        "BHK": 3,
+        "Area": 1500.0,
+        "price": 111.6810729068678,
+        "confidence": 63.0,
+        "created_at": "07 Oct 2026, 11:47 AM",
+        "signature": "Ahmedabad|Bodakdev|3|1500.0|111.68"
+      },
+      {
+        "City": "Ahmedabad",
+        "Area_Name": "Ashram Road",
+        "BHK": 5,
+        "Area": 3500.0,
+        "price": 139.44326342489686,
+        "confidence": 78.0,
+        "created_at": "07 Oct 2026, 11:14 AM",
+        "signature": "Ahmedabad|Ashram Road|5|3500.0|139.44"
+      },
+      {
+        "City": "Ahmedabad",
+        "Area_Name": "Ashram Road",
+        "BHK": 5,
+        "Area": 3500.0,
+        "price": 151.5687645922792,
+        "confidence": 78.0,
+        "created_at": "07 Oct 2026, 11:14 AM",
+        "signature": "Ahmedabad|Ashram Road|5|3500.0|151.57"
+      },
+      {
+        "City": "Ahmedabad",
+        "Area_Name": "Bodakdev",
+        "BHK": 3,
+        "Area": 1500.0,
+        "price": 98.29300091302514,
+        "confidence": 63.0,
+        "created_at": "07 Oct 2026, 10:35 AM",
+        "signature": "Ahmedabad|Bodakdev|3|1500.0|98.29"
+      },
+      {
+        "City": "Ahmedabad",
+        "Area_Name": "Bodakdev",
+        "BHK": 1,
+        "Area": 650.0,
+        "price": 59.40457321563315,
+        "confidence": 63.0,
+        "created_at": "07 Oct 2026, 10:30 AM",
+        "signature": "Ahmedabad|Bodakdev|1|650.0|59.4"
+      },
+      {
+        "City": "Ahmedabad",
+        "Area_Name": "Bodakdev",
+        "BHK": 3,
+        "Area": 1500.0,
+        "price": 101.72313049335087,
+        "confidence": 63.0,
+        "created_at": "05 Oct 2026, 08:31 PM",
+        "signature": "Ahmedabad|Bodakdev|3|1500.0|101.72"
+      },
+      {
+        "City": "Ahmedabad",
+        "Area_Name": "CG Road",
+        "BHK": 3,
+        "Area": 1500.0,
+        "price": 81.0037526060715,
+        "confidence": 78.0,
+        "created_at": "05 Oct 2026, 07:18 PM",
+        "signature": "Ahmedabad|CG Road|3|1500.0|81.0"
+      },
+      {
+        "City": "Ahmedabad",
+        "Area_Name": "Motera",
+        "BHK": 3,
+        "Area": 1500.0,
+        "price": 81.68728715919502,
+        "confidence": 64.0,
+        "created_at": "05 Oct 2026, 07:13 PM",
+        "signature": "Ahmedabad|Motera|3|1500.0|81.69"
+      },
+      {
+        "City": "Ahmedabad",
+        "Area_Name": "Bodakdev",
+        "BHK": 1,
+        "Area": 300.0,
+        "price": 49.76387364947185,
+        "confidence": 63.0,
+        "created_at": "05 Oct 2026, 06:51 PM",
+        "signature": "Ahmedabad|Bodakdev|1|300.0|49.76"
+      },
+      {
+        "City": "Ahmedabad",
+        "Area_Name": "Bodakdev",
+        "BHK": 3,
+        "Area": 1500.0,
+        "price": 98.29300091302514,
+        "confidence": 63.0,
+        "created_at": "05 Oct 2026, 05:42 PM",
+        "signature": "Ahmedabad|Bodakdev|3|1500.0|98.29"
+      },
+      {
+        "City": "Ahmedabad",
+        "Area_Name": "Satellite",
+        "BHK": 1,
+        "Area": 650.0,
+        "price": 58.280071027402954,
+        "confidence": 78.0,
+        "created_at": "05 Oct 2026, 05:40 PM",
+        "signature": "Ahmedabad|Satellite|1|650.0|58.28"
+      },
+      {
+        "City": "Ahmedabad",
+        "Area_Name": "Satellite",
+        "BHK": 3,
+        "Area": 1500.0,
+        "price": 97.16849872479493,
+        "confidence": 78.0,
+        "created_at": "05 Oct 2026, 05:35 PM",
+        "signature": "Ahmedabad|Satellite|3|1500.0|97.17"
+      },
+      {
+        "City": "Ahmedabad",
+        "Area_Name": "Ashram Road",
+        "BHK": 2,
+        "Area": 1100.0,
+        "price": 62.24816015495846,
+        "confidence": 78.0,
+        "created_at": "05 Oct 2026, 05:05 PM",
+        "signature": "Ahmedabad|Ashram Road|2|1100.0|62.25"
+      },
+      {
+        "City": "Ahmedabad",
+        "Area_Name": "Motera",
+        "BHK": 3,
+        "Area": 1500.0,
+        "price": 98.64074667122127,
+        "confidence": 64.0,
+        "created_at": "05 Oct 2026, 02:47 PM",
+        "signature": "Ahmedabad|Motera|3|1500.0|98.64"
+      },
+      {
+        "City": "Ahmedabad",
+        "Area_Name": "Ranip",
+        "BHK": 3,
+        "Area": 1500.0,
+        "price": 93.19182459991416,
+        "confidence": 78.0,
+        "created_at": "05 Oct 2026, 02:19 PM",
+        "signature": "Ahmedabad|Ranip|3|1500.0|93.19"
+      },
+      {
+        "City": "Ahmedabad",
+        "Area_Name": "Ashram Road",
+        "BHK": 3,
+        "Area": 1500.0,
+        "price": 81.0037526060715,
+        "confidence": 78.0,
+        "created_at": "01 Oct 2026, 09:34 PM",
+        "signature": "Ahmedabad|Ashram Road|3|1500.0|81.0"
+      },
+      {
+        "City": "Ahmedabad",
+        "Area_Name": "Bodakdev",
+        "BHK": 3,
+        "Area": 1500.0,
+        "price": 98.29300091302514,
+        "confidence": 63.0,
+        "created_at": "29 Sep 2026, 02:28 PM",
+        "signature": "Ahmedabad|Bodakdev|3|1500.0|98.29"
+      },
+      {
+        "City": "Ahmedabad",
+        "Area_Name": "Bodakdev",
+        "BHK": 1,
+        "Area": 650.0,
+        "price": 59.40457321563315,
+        "confidence": 63.0,
+        "created_at": "29 Sep 2026, 02:21 PM",
+        "signature": "Ahmedabad|Bodakdev|1|650.0|59.4"
+      },
+      {
+        "City": "Ahmedabad",
+        "Area_Name": "Vaishnodevi Circle",
+        "BHK": 5,
+        "Area": 3500.0,
+        "price": 154.99889417260493,
+        "confidence": 78.0,
+        "created_at": "29 Sep 2026, 01:45 PM",
+        "signature": "Ahmedabad|Vaishnodevi Circle|5|3500.0|155.0"
+      },
+      {
+        "City": "Ahmedabad",
+        "Area_Name": "Paldi",
+        "BHK": 4,
+        "Area": 2500.0,
+        "price": 119.71638817950108,
+        "confidence": 78.0,
+        "created_at": "29 Sep 2026, 01:44 PM",
+        "signature": "Ahmedabad|Paldi|4|2500.0|119.72"
+      }
+    ],
+    "comparison_history": [
+      {
+        "property_a": {
+          "City": "Ahmedabad",
+          "Area_Name": "Ambawadi",
+          "BHK": 3,
+          "Area": 1500
+        },
+        "property_b": {
+          "City": "Ahmedabad",
+          "Area_Name": "Ambawadi",
+          "BHK": 3,
+          "Area": 1500
+        },
+        "created_at": "07 Oct 2026, 10:30 AM",
+        "signature": "Ahmedabad|Ambawadi|3|1500||Ahmedabad|Ambawadi|3|1500"
+      },
+      {
+        "property_a": {
+          "City": "Ahmedabad",
+          "Area_Name": "Ambawadi",
+          "BHK": 3,
+          "Area": 1500
+        },
+        "property_b": {
+          "City": "Ahmedabad",
+          "Area_Name": "Gota",
+          "BHK": 3,
+          "Area": 1500
+        },
+        "created_at": "05 Oct 2026, 06:50 PM",
+        "signature": "Ahmedabad|Ambawadi|3|1500||Ahmedabad|Gota|3|1500"
+      },
+      {
+        "property_a": {
+          "City": "Ahmedabad",
+          "Area_Name": "Ambawadi",
+          "BHK": 3,
+          "Area": 1500
+        },
+        "property_b": {
+          "City": "Ahmedabad",
+          "Area_Name": "Ambawadi",
+          "BHK": 6,
+          "Area": 4500
+        },
+        "created_at": "05 Oct 2026, 06:49 PM",
+        "signature": "Ahmedabad|Ambawadi|3|1500||Ahmedabad|Ambawadi|6|4500"
+      },
+      {
+        "property_a": {
+          "City": "Ahmedabad",
+          "Area_Name": "Ambawadi",
+          "BHK": 3,
+          "Area": 1500
+        },
+        "property_b": {
+          "City": "Ahmedabad",
+          "Area_Name": "Bapunagar",
+          "BHK": 3,
+          "Area": 1500
+        },
+        "created_at": "05 Oct 2026, 06:49 PM",
+        "signature": "Ahmedabad|Ambawadi|3|1500||Ahmedabad|Bapunagar|3|1500"
+      },
+      {
+        "property_a": {
+          "City": "Ahmedabad",
+          "Area_Name": "Ambawadi",
+          "BHK": 3,
+          "Area": 1500
+        },
+        "property_b": {
+          "City": "Ahmedabad",
+          "Area_Name": "Gulbai Tekra",
+          "BHK": 3,
+          "Area": 1500
+        },
+        "created_at": "05 Oct 2026, 03:05 PM",
+        "signature": "Ahmedabad|Ambawadi|3|1500||Ahmedabad|Gulbai Tekra|3|1500"
+      },
+      {
+        "property_a": {
+          "City": "Ahmedabad",
+          "Area_Name": "Ambawadi",
+          "BHK": 3,
+          "Area": 1500
+        },
+        "property_b": {
+          "City": "Ahmedabad",
+          "Area_Name": "Anand Nagar",
+          "BHK": 3,
+          "Area": 1500
+        },
+        "created_at": "05 Oct 2026, 03:04 PM",
+        "signature": "Ahmedabad|Ambawadi|3|1500||Ahmedabad|Anand Nagar|3|1500"
+      },
+      {
+        "property_a": {
+          "City": "Ahmedabad",
+          "Area_Name": "Ambli",
+          "BHK": 3,
+          "Area": 1500
+        },
+        "property_b": {
+          "City": "Ahmedabad",
+          "Area_Name": "Ambawadi",
+          "BHK": 3,
+          "Area": 1500
+        },
+        "created_at": "29 Sep 2026, 10:12 AM",
+        "signature": "Ahmedabad|Ambli|3|1500||Ahmedabad|Ambawadi|3|1500"
+      },
+      {
+        "property_a": {
+          "City": "Ahmedabad",
+          "Area_Name": "Ambawadi",
+          "BHK": 3,
+          "Area": 1500
+        },
+        "property_b": {
+          "City": "Ahmedabad",
+          "Area_Name": "Ambawadi",
+          "BHK": 3,
+          "Area": 1500
+        },
+        "created_at": "23 Sep 2026, 03:01 PM",
+        "signature": "Ahmedabad|Ambawadi|3|1500||Ahmedabad|Ambawadi|3|1500"
+      },
+      {
+        "property_a": {
+          "City": "Ahmedabad",
+          "Area_Name": "Ambawadi",
+          "BHK": 3,
+          "Area": 1500
+        },
+        "property_b": {
+          "City": "Ahmedabad",
+          "Area_Name": "Bodakdev",
+          "BHK": 3,
+          "Area": 1500
+        },
+        "created_at": "23 Sep 2026, 12:30 PM",
+        "signature": "Ahmedabad|Ambawadi|3|1500||Ahmedabad|Bodakdev|3|1500"
+      }
+    ],
+    "report_history": [
+      {
+        "title": "Both Properties Comparison Pdf",
+        "file_name": "SmartEstate_Property_Comparison_Ambawadi_vs_Ambawadi.pdf",
+        "property": {
+          "Area_Name": "Bodakdev",
+          "Location": "Bodakdev, Ahmedabad"
+        },
+        "created_at": "07 Oct 2026, 11:52 AM",
+        "signature": "SmartEstate_Property_Comparison_Ambawadi_vs_Ambawadi.pdf|Bodakdev|202610071152"
+      },
+      {
+        "title": "This Property Report",
+        "file_name": "Property_Report_Adalaj.pdf",
+        "property": {
+          "Area_Name": "Bodakdev",
+          "Location": "Bodakdev, Ahmedabad"
+        },
+        "created_at": "07 Oct 2026, 11:51 AM",
+        "signature": "Property_Report_Adalaj.pdf|Bodakdev|202610071151"
+      },
+      {
+        "title": "This Property Report",
+        "file_name": "Property_Report_Bodakdev.pdf",
+        "property": {
+          "Area_Name": "Bodakdev",
+          "Location": "Bodakdev, Ahmedabad"
+        },
+        "created_at": "07 Oct 2026, 11:49 AM",
+        "signature": "Property_Report_Bodakdev.pdf|Bodakdev|202610071149"
+      },
+      {
+        "title": "This Valuation Pdf",
+        "file_name": "Premium_Valuation_Bodakdev.pdf",
+        "property": {
+          "Area_Name": "Bodakdev",
+          "Location": "Bodakdev, Ahmedabad"
+        },
+        "created_at": "07 Oct 2026, 11:48 AM",
+        "signature": "Premium_Valuation_Bodakdev.pdf|Bodakdev|202610071148"
+      },
+      {
+        "title": "This Property Report",
+        "file_name": "Property_Report_Raysan.pdf",
+        "property": {
+          "Area_Name": "Bodakdev",
+          "Location": ""
+        },
+        "created_at": "07 Oct 2026, 11:39 AM",
+        "signature": "Property_Report_Raysan.pdf|Bodakdev|202610071139"
+      },
+      {
+        "title": "This Valuation Pdf",
+        "file_name": "Premium_Valuation_Bodakdev.pdf",
+        "property": {
+          "Area_Name": "Bodakdev",
+          "Location": "Bodakdev, Ahmedabad"
+        },
+        "created_at": "07 Oct 2026, 10:01 AM",
+        "signature": "Premium_Valuation_Bodakdev.pdf|Bodakdev|202610071001"
+      },
+      {
+        "title": "This Valuation Pdf",
+        "file_name": "Premium_Valuation_Randesan.pdf",
+        "property": {
+          "Area_Name": "Bodakdev",
+          "Location": ""
+        },
+        "created_at": "05 Oct 2026, 02:59 PM",
+        "signature": "Premium_Valuation_Randesan.pdf|Bodakdev|202610051459"
+      },
+      {
+        "title": "This Valuation Pdf",
+        "file_name": "Premium_Valuation_Vastral.pdf",
+        "property": {
+          "Area_Name": "Bodakdev",
+          "Location": ""
+        },
+        "created_at": "05 Oct 2026, 02:54 PM",
+        "signature": "Premium_Valuation_Vastral.pdf|Bodakdev|202610051454"
+      },
+      {
+        "title": "This Property Report",
+        "file_name": "Property_Report_Motera.pdf",
+        "property": {
+          "Area_Name": "Motera",
+          "Location": "Motera, Ahmedabad"
+        },
+        "created_at": "05 Oct 2026, 02:49 PM",
+        "signature": "Property_Report_Motera.pdf|Motera|202610051449"
+      },
+      {
+        "title": "Both Properties Comparison Pdf",
+        "file_name": "SmartEstate_Property_Comparison_Ghanteshwer_vs_Adalaj.pdf",
+        "property": {
+          "Area_Name": "Bodakdev",
+          "Location": "Bodakdev, Ahmedabad"
+        },
+        "created_at": "01 Oct 2026, 09:27 PM",
+        "signature": "SmartEstate_Property_Comparison_Ghanteshwer_vs_Adalaj.pdf|Bodakdev|202610012127"
+      },
+      {
+        "title": "Both Properties Comparison Pdf",
+        "file_name": "SmartEstate_Property_Comparison_Ambawadi_vs_Ambawadi.pdf",
+        "property": {
+          "Area_Name": "Bodakdev",
+          "Location": "Bodakdev, Ahmedabad"
+        },
+        "created_at": "29 Sep 2026, 03:07 PM",
+        "signature": "SmartEstate_Property_Comparison_Ambawadi_vs_Ambawadi.pdf|Bodakdev|202609291507"
+      },
+      {
+        "title": "Both Properties Comparison Pdf",
+        "file_name": "SmartEstate_Property_Comparison_Ambawadi_vs_Ambawadi.pdf",
+        "property": {
+          "Area_Name": "Bodakdev",
+          "Location": ""
+        },
+        "created_at": "29 Sep 2026, 03:04 PM",
+        "signature": "SmartEstate_Property_Comparison_Ambawadi_vs_Ambawadi.pdf|Bodakdev|202609291504"
+      },
+      {
+        "title": "Property A Comparison Report",
+        "file_name": "Property_A_Report_Ambawadi.pdf",
+        "property": {
+          "Area_Name": "Bodakdev",
+          "Location": ""
+        },
+        "created_at": "29 Sep 2026, 03:03 PM",
+        "signature": "Property_A_Report_Ambawadi.pdf|Bodakdev|202609291503"
+      },
+      {
+        "title": "Both Properties Comparison Pdf",
+        "file_name": "SmartEstate_Property_Comparison_Ambawadi_vs_Ambawadi.pdf",
+        "property": {
+          "Area_Name": "Bodakdev",
+          "Location": ""
+        },
+        "created_at": "29 Sep 2026, 03:03 PM",
+        "signature": "SmartEstate_Property_Comparison_Ambawadi_vs_Ambawadi.pdf|Bodakdev|202609291503"
+      },
+      {
+        "title": "Both Properties Comparison Pdf",
+        "file_name": "SmartEstate_Property_Comparison_Ambawadi_vs_Ambawadi.pdf",
+        "property": {
+          "Area_Name": "Bodakdev",
+          "Location": ""
+        },
+        "created_at": "29 Sep 2026, 02:57 PM",
+        "signature": "SmartEstate_Property_Comparison_Ambawadi_vs_Ambawadi.pdf|Bodakdev|202609291457"
+      },
+      {
+        "title": "The Property Comparison Pdf",
+        "file_name": "SmartEstate_Compare_Ambawadi_vs_Ambawadi.pdf",
+        "property": {
+          "Area_Name": "Bodakdev",
+          "Location": ""
+        },
+        "created_at": "29 Sep 2026, 01:55 PM",
+        "signature": "SmartEstate_Compare_Ambawadi_vs_Ambawadi.pdf|Bodakdev|202609291355"
+      },
+      {
+        "title": "This Property Report",
+        "file_name": "Property_Report_Vaishnodevi Circle.pdf",
+        "property": {
+          "Area_Name": "Vaishnodevi Circle",
+          "Location": "Vaishnodevi Circle, Ahmedabad"
+        },
+        "created_at": "29 Sep 2026, 01:47 PM",
+        "signature": "Property_Report_Vaishnodevi Circle.pdf|Vaishnodevi Circle|202609291347"
+      },
+      {
+        "title": "This Property Report",
+        "file_name": "Property_Report_Bodakdev.pdf",
+        "property": {
+          "Area_Name": "Bodakdev",
+          "Location": "Bodakdev, Ahmedabad"
+        },
+        "created_at": "29 Sep 2026, 10:03 AM",
+        "signature": "Property_Report_Bodakdev.pdf|Bodakdev|202609291003"
+      },
+      {
+        "title": "This Valuation Pdf",
+        "file_name": "Premium_Valuation_Bodakdev.pdf",
+        "property": {
+          "Area_Name": "Bodakdev",
+          "Location": "Bodakdev, Ahmedabad"
+        },
+        "created_at": "25 Sep 2026, 10:34 AM",
+        "signature": "Premium_Valuation_Bodakdev.pdf|Bodakdev|202609251034"
+      },
+      {
+        "title": "This Property Report",
+        "file_name": "Property_Report_Bodakdev.pdf",
+        "property": {
+          "Area_Name": "Bodakdev",
+          "Location": "Bodakdev, Ahmedabad"
+        },
+        "created_at": "25 Sep 2026, 10:34 AM",
+        "signature": "Property_Report_Bodakdev.pdf|Bodakdev|202609251034"
+      }
+    ],
+    "password_updated_at": "2026-10-07T09:59:42",
+    "login_tokens": {
+      "c69150f87458720f757baf67306936ee1f89777d4effa5f916e66ed7b7b4c83f": 1794644074.8649943,
+      "3a496a5e01711a8e5c834e48572da88e412829497bbf36b64abe5ce1369f9b88": 1793947069.279922,
+      "12a3f09903516ba3ad5ac082c13c424194dbfc7eff2a4eeb5c14aaae990ef2c2": 1793939398.8525212
+    }
+  },
+  "shaileshdarji979@gmail.com": {
+    "name": "Darji Shailesh",
+    "phone": "8849619328",
+    "salt": "04c690d2eb05aa3c70d7682061d409b5",
+    "password_hash": "edf9d92246f7b05aff8a0a443fd348349988234b3f11265668014fb7ce9f9fec",
+    "created_at": "2026-09-23T12:15:49",
+    "email_verified": true,
+    "favorites": [],
+    "saved_searches": [],
+    "login_tokens": {},
+    "recently_viewed": [
+      {
+        "City": "Ahmedabad",
+        "Area_Name": "Anand Nagar",
+        "BHK": 3,
+        "Area": 1500,
+        "Historical_Price": 81.0037526060715,
+        "viewed_at": "25 Sep 2026, 04:04 PM"
+      }
+    ],
+    "valuation_history": [
+      {
+        "City": "Ahmedabad",
+        "Area_Name": "Anand Nagar",
+        "BHK": 3,
+        "Area": 1500.0,
+        "price": 81.0037526060715,
+        "confidence": 78.0,
+        "created_at": "25 Sep 2026, 04:04 PM",
+        "signature": "Ahmedabad|Anand Nagar|3|1500.0|81.0"
+      }
+    ],
+    "comparison_history": [],
+    "report_history": []
+  },
+  "darjishailesh971@gmail.com": {
+    "name": "Darji Shailesh",
+    "phone": "8154994637",
+    "salt": "033a63157918a0e637b6218b4a7e5213",
+    "password_hash": "b120cf7a9a77be8f66665dfb282f29a7aff56f110351b06b2bf2013bbb70e595",
+    "created_at": "2026-09-25T13:55:15",
+    "email_verified": true,
+    "favorites": [
+      {
+        "City": "Ahmedabad",
+        "Area_Name": "Gota",
+        "BHK": 3,
+        "Area": 1500,
+        "Historical_Price": 66.9715280988474,
+        "saved_at": "25 Sep 2026, 02:22 PM"
+      },
+      {
+        "City": "Gandhinagar",
+        "Area_Name": "Adalaj",
+        "BHK": 1,
+        "Area": 926.0,
+        "Historical_Price": 46.94,
+        "saved_at": "25 Sep 2026, 03:15 PM"
+      },
+      {
+        "City": "Rajkot",
+        "Area_Name": "Ghanteshwer",
+        "BHK": 2,
+        "Area": 863.5,
+        "Historical_Price": 47.075,
+        "saved_at": "25 Sep 2026, 03:15 PM"
+      }
+    ],
+    "saved_searches": [],
+    "recently_viewed": [
+      {
+        "City": "Ahmedabad",
+        "Area_Name": "Gota",
+        "BHK": 3,
+        "Area": 1500,
+        "Historical_Price": 66.9715280988474,
+        "viewed_at": "25 Sep 2026, 03:16 PM"
+      },
+      {
+        "City": "Ahmedabad",
+        "Area_Name": "Bodakdev",
+        "BHK": 3,
+        "Area": 1500,
+        "Historical_Price": 98.29300091302514,
+        "viewed_at": "25 Sep 2026, 03:14 PM"
+      },
+      {
+        "City": "Ahmedabad",
+        "Area_Name": "Gota",
+        "BHK": 1,
+        "Area": 650,
+        "Historical_Price": 28.08310040145541,
+        "viewed_at": "25 Sep 2026, 02:23 PM"
+      },
+      {
+        "City": "Ahmedabad",
+        "Area_Name": "Ashram Road",
+        "BHK": 1,
+        "Area": 300,
+        "Historical_Price": 32.474625342518216,
+        "viewed_at": "25 Sep 2026, 02:20 PM"
+      }
+    ],
+    "valuation_history": [
+      {
+        "City": "Ahmedabad",
+        "Area_Name": "Bodakdev",
+        "BHK": 3,
+        "Area": 1500.0,
+        "price": 98.29300091302514,
+        "confidence": 63.0,
+        "created_at": "25 Sep 2026, 03:04 PM",
+        "signature": "Ahmedabad|Bodakdev|3|1500.0|98.29"
+      },
+      {
+        "City": "Ahmedabad",
+        "Area_Name": "Gota",
+        "BHK": 1,
+        "Area": 650.0,
+        "price": 28.08310040145541,
+        "confidence": 83.0,
+        "created_at": "25 Sep 2026, 02:23 PM",
+        "signature": "Ahmedabad|Gota|1|650.0|28.08"
+      },
+      {
+        "City": "Ahmedabad",
+        "Area_Name": "Gota",
+        "BHK": 3,
+        "Area": 1500.0,
+        "price": 66.9715280988474,
+        "confidence": 83.0,
+        "created_at": "25 Sep 2026, 02:21 PM",
+        "signature": "Ahmedabad|Gota|3|1500.0|66.97"
+      },
+      {
+        "City": "Ahmedabad",
+        "Area_Name": "Ashram Road",
+        "BHK": 1,
+        "Area": 300.0,
+        "price": 32.474625342518216,
+        "confidence": 78.0,
+        "created_at": "25 Sep 2026, 02:20 PM",
+        "signature": "Ahmedabad|Ashram Road|1|300.0|32.47"
+      }
+    ],
+    "comparison_history": [
+      {
+        "property_a": {
+          "City": "Ahmedabad",
+          "Area_Name": "Ambawadi",
+          "BHK": 3,
+          "Area": 1500
+        },
+        "property_b": {
+          "City": "Ahmedabad",
+          "Area_Name": "Ambawadi",
+          "BHK": 3,
+          "Area": 1500
+        },
+        "created_at": "25 Sep 2026, 03:15 PM",
+        "signature": "Ahmedabad|Ambawadi|3|1500||Ahmedabad|Ambawadi|3|1500"
+      }
+    ],
+    "report_history": [],
+    "login_tokens": {},
+    "password_updated_at": "2026-09-25T14:30:27"
+  },
+  "darjishailesh093@gmail.com": {
+    "name": "Darji kanjibhai",
+    "phone": "8849619327",
+    "salt": "60c7888e60a90f9c30a41973db5d3c84",
+    "password_hash": "290288d01ef390e266c546ecaefad395ffcbfcf4fd78bb7619e7c1593fca8c1b",
+    "created_at": "2026-10-08T21:15:11",
+    "email_verified": true,
+    "favorites": [
+      {
+        "City": "Ahmedabad",
+        "Area_Name": "Bodakdev",
+        "BHK": 3,
+        "Area": 1500,
+        "Historical_Price": 98.29300091302514,
+        "saved_at": "08 Oct 2026, 09:15 PM"
+      }
+    ],
+    "saved_searches": [],
+    "recently_viewed": [
+      {
+        "City": "Ahmedabad",
+        "Area_Name": "Bodakdev",
+        "BHK": 3,
+        "Area": 1500,
+        "Historical_Price": 104.61045683245315,
+        "viewed_at": "08 Oct 2026, 10:26 PM"
+      },
+      {
+        "City": "Rajkot",
+        "Area_Name": "Ghanteshwer",
+        "BHK": 2,
+        "Area": 863.5,
+        "Historical_Price": 47.075,
+        "viewed_at": "08 Oct 2026, 10:25 PM"
+      },
+      {
+        "City": "Gandhinagar",
+        "Area_Name": "Adalaj",
+        "BHK": 1,
+        "Area": 926.0,
+        "Historical_Price": 46.94,
+        "viewed_at": "08 Oct 2026, 10:24 PM"
+      }
+    ],
+    "valuation_history": [
+      {
+        "City": "Ahmedabad",
+        "Area_Name": "Bodakdev",
+        "BHK": 3,
+        "Area": 1500.0,
+        "price": 104.61045683245315,
+        "confidence": 63.0,
+        "created_at": "08 Oct 2026, 10:22 PM",
+        "signature": "Ahmedabad|Bodakdev|3|1500.0|104.61"
+      },
+      {
+        "City": "Ahmedabad",
+        "Area_Name": "Bodakdev",
+        "BHK": 3,
+        "Area": 1500.0,
+        "price": 96.32714089476464,
+        "confidence": 63.0,
+        "created_at": "08 Oct 2026, 09:15 PM",
+        "signature": "Ahmedabad|Bodakdev|3|1500.0|96.33"
+      },
+      {
+        "City": "Ahmedabad",
+        "Area_Name": "Bodakdev",
+        "BHK": 3,
+        "Area": 1500.0,
+        "price": 98.29300091302514,
+        "confidence": 63.0,
+        "created_at": "08 Oct 2026, 09:15 PM",
+        "signature": "Ahmedabad|Bodakdev|3|1500.0|98.29"
+      }
+    ],
+    "comparison_history": [
+      {
+        "property_a": {
+          "City": "Ahmedabad",
+          "Area_Name": "Ambawadi",
+          "BHK": 3,
+          "Area": 1500
+        },
+        "property_b": {
+          "City": "Ahmedabad",
+          "Area_Name": "Ambawadi",
+          "BHK": 3,
+          "Area": 1500
+        },
+        "created_at": "08 Oct 2026, 09:29 PM",
+        "signature": "Ahmedabad|Ambawadi|3|1500||Ahmedabad|Ambawadi|3|1500"
+      }
+    ],
+    "report_history": [
+      {
+        "title": "This Property Report",
+        "file_name": "Property_Report_Adalaj.pdf",
+        "property": {
+          "Area_Name": "Bodakdev",
+          "Location": "Bodakdev, Ahmedabad"
+        },
+        "created_at": "08 Oct 2026, 10:24 PM",
+        "signature": "Property_Report_Adalaj.pdf|Bodakdev|202610082224"
+      },
+      {
+        "title": "This Valuation Pdf",
+        "file_name": "Premium_Valuation_Bodakdev.pdf",
+        "property": {
+          "Area_Name": "Bodakdev",
+          "Location": "Bodakdev, Ahmedabad"
+        },
+        "created_at": "08 Oct 2026, 09:36 PM",
+        "signature": "Premium_Valuation_Bodakdev.pdf|Bodakdev|202610082136"
+      }
+    ],
+    "login_tokens": {
+      "3ef07ece08e8206fc6396c7cb3a55907fd81a34d6f2187142a2f96fbb9b54eb6": 1794066311.7259731
+    }
+  }
+}

@@ -1,0 +1,6 @@
+2026-10-05T19:14:17.240592 | DELIVERY FAILED | shaileshdarji1311@gmail.com
+2026-10-05T19:19:19.263616 | DELIVERY FAILED | shaileshdarji1311@gmail.com
+2026-10-05T20:04:05.900531 | DELIVERY FAILED | shaileshdarji1311@gmail.com
+2026-10-05T20:32:07.766928 | SMTP LOGIN FAILED | shaileshdarji1311@gmail.com | SMTPServerDisconnected: Connection unexpectedly closed
+2026-10-05T20:34:59.825684 | SMTP LOGIN FAILED | shaileshdarji1311@gmail.com | SMTPServerDisconnected: Connection unexpectedly closed
+2026-10-05T20:38:18.825462 | SMTP LOGIN FAILED | shaileshdarji1311@gmail.com | SMTPServerDisconnected: Connection unexpectedly closed

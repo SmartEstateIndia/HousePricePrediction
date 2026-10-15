@@ -1,0 +1,501 @@
+id,City,Area_Name,Area,BHK,Bathrooms,Gym,Swimming_Pool,Cinema_Hall,Gaming_Zone,Price
+1,Rajkot,Yogi Nagar,802,4,3,0,0,0,0,72.94
+2,Ahmedabad,Bodakdev,1083,2,2,0,1,0,1,84.59
+3,Ahmedabad,Science City,2431,3,2,0,1,0,0,117.53
+4,Gandhinagar,Koba,1783,4,4,0,1,0,1,98.87
+5,Rajkot,Sadar,1487,4,3,0,1,0,0,94.66
+6,Gandhinagar,Randesan,2557,3,3,0,1,1,0,118.62
+7,Rajkot,Yogi Nagar,1400,3,2,0,1,1,1,98.32
+8,Rajkot,Vavdi,1599,3,2,0,0,1,1,72.73
+9,Ahmedabad,Chandkheda,1570,3,3,1,0,1,0,72.19
+10,Rajkot,Vavdi,1776,4,4,1,1,0,0,88.5
+11,Ahmedabad,Thaltej,1149,2,2,1,0,1,1,86.0
+12,Gandhinagar,PDPU Road,1729,5,4,0,1,1,0,107.28
+13,Ahmedabad,Motera,713,5,5,0,0,1,0,76.49
+14,Ahmedabad,Bodakdev,2027,3,2,1,1,0,0,119.72
+15,Rajkot,Yogi Nagar,1050,4,3,0,0,1,0,81.01
+16,Rajkot,Bhakti Nagar,1567,4,3,1,1,1,1,95.16
+17,Gandhinagar,Kudasan,1715,2,2,0,0,0,0,80.52
+18,Rajkot,Raiya,1637,2,2,1,0,0,1,91.6
+19,Ahmedabad,Prahlad Nagar,2636,2,3,1,0,0,0,122.81
+20,Gandhinagar,Adalaj,2383,3,3,0,0,0,1,96.08
+21,Ahmedabad,Bopal,1484,2,3,0,1,0,1,79.13
+22,Ahmedabad,Motera,2954,2,2,0,0,0,1,118.05
+23,Ahmedabad,Vastral,940,2,2,1,1,1,1,58.86
+24,Rajkot,Vavdi,2693,2,2,0,0,0,1,87.19
+25,Rajkot,Mota Mava,2759,4,3,0,0,0,0,124.12
+26,Rajkot,Mavdi,2353,2,2,0,0,1,1,103.56
+27,Ahmedabad,Chandkheda,1677,2,2,1,1,1,0,70.93
+28,Rajkot,Ghanteshwer,1109,2,2,1,0,1,0,61.85
+29,Gandhinagar,Randesan,1346,3,3,1,0,1,0,86.61
+30,Ahmedabad,South Bopal,1172,4,3,1,1,0,1,83.96
+31,Rajkot,Madhapar,2770,3,2,0,1,1,0,115.55
+32,Ahmedabad,South Bopal,1361,4,4,0,0,0,0,83.64
+33,Gandhinagar,PDPU Road,1306,3,2,1,1,0,1,81.42
+34,Ahmedabad,Vastrapur,2148,4,4,0,0,0,0,124.69
+35,Ahmedabad,Science City,2060,4,4,0,1,0,0,117.23
+36,Ahmedabad,Shela,1611,2,3,1,1,0,0,78.08
+37,Ahmedabad,Vastral,2044,2,2,1,1,1,1,87.48
+38,Ahmedabad,South Bopal,1431,3,3,0,0,1,1,86.8
+39,Gandhinagar,Adalaj,2794,2,2,1,0,1,0,101.11
+40,Rajkot,Mavdi,2191,3,3,1,1,0,1,106.38
+41,Rajkot,Bhakti Nagar,2036,3,3,0,0,1,1,91.33
+42,Ahmedabad,Gota,2363,3,2,1,1,0,1,102.28
+43,Rajkot,Sadar,2604,3,3,0,1,0,0,114.05
+44,Rajkot,Ghanteshwer,2072,2,2,1,0,0,0,70.96
+45,Ahmedabad,Shela,998,3,3,0,1,1,1,73.44
+46,Rajkot,Raiya,1136,4,3,0,1,0,0,92.45
+47,Ahmedabad,Motera,1246,4,4,1,1,1,0,97.48
+48,Gandhinagar,Vavol,1761,4,4,1,0,1,1,85.84
+49,Gandhinagar,Raysan,1812,3,3,0,0,0,0,89.89
+50,Ahmedabad,Ambli,963,3,3,1,1,0,0,89.43
+51,Gandhinagar,GIFT City,2258,3,3,1,1,1,0,141.31
+52,Gandhinagar,Adalaj,2689,1,1,1,0,1,0,96.57
+53,Rajkot,Raiya,2313,3,3,0,0,1,0,120.26
+54,Ahmedabad,Thaltej,1765,3,2,1,1,1,1,114.35
+55,Gandhinagar,Randesan,1035,3,3,0,1,0,0,74.64
+56,Rajkot,Raiya,827,4,3,0,0,0,0,73.75
+57,Ahmedabad,Ambli,2604,3,3,0,0,0,1,130.51
+58,Ahmedabad,Gota,2237,3,3,0,0,0,0,89.3
+59,Gandhinagar,Kudasan,868,3,3,1,0,1,0,78.58
+60,Gandhinagar,Kudasan,2475,5,5,0,1,0,1,141.17
+61,Rajkot,Mota Mava,2604,3,3,1,1,0,0,119.02
+62,Gandhinagar,Raysan,2603,3,3,1,1,0,1,127.71
+63,Ahmedabad,Shela,1568,3,3,1,1,1,0,91.13
+64,Ahmedabad,Satellite,1688,4,4,0,1,1,1,123.99
+65,Ahmedabad,Gota,1607,3,2,1,1,1,1,84.72
+66,Rajkot,Vavdi,2054,3,3,1,1,1,0,88.57
+67,Ahmedabad,Chandkheda,1189,4,3,0,0,1,1,72.9
+68,Rajkot,Ghanteshwer,1859,5,4,1,0,1,0,90.05
+69,Rajkot,Vavdi,1218,2,2,1,0,1,0,65.42
+70,Rajkot,Madhapar,2622,3,3,0,0,1,1,112.81
+71,Ahmedabad,Vastral,2714,2,2,0,0,1,0,91.26
+72,Ahmedabad,Maninagar,1624,4,4,1,1,1,1,96.65
+73,Rajkot,Raiya,1106,4,3,0,1,0,0,84.78
+74,Rajkot,Yogi Nagar,1341,1,1,1,1,0,0,71.4
+75,Gandhinagar,Vavol,991,3,3,0,1,0,0,62.39
+76,Gandhinagar,Sargasan,992,2,2,1,1,0,1,74.76
+77,Rajkot,Bhakti Nagar,1815,3,3,1,0,0,1,85.65
+78,Rajkot,Madhapar,805,2,2,1,0,0,1,59.24
+79,Gandhinagar,Randesan,1443,5,5,1,0,1,1,102.04
+80,Gandhinagar,Kudasan,1358,3,3,1,1,1,0,94.09
+81,Gandhinagar,Randesan,2024,2,3,0,1,1,0,94.0
+82,Gandhinagar,Vavol,2510,4,3,1,0,1,1,109.26
+83,Gandhinagar,Kudasan,818,5,4,0,1,0,1,84.7
+84,Ahmedabad,Motera,1181,3,2,1,1,1,1,89.5
+85,Gandhinagar,Raysan,2570,3,3,0,0,0,1,118.01
+86,Gandhinagar,Koba,2779,2,2,1,1,1,0,109.94
+87,Gandhinagar,Koba,2061,3,3,1,1,1,0,104.33
+88,Ahmedabad,Vastral,1656,4,4,0,1,1,1,82.6
+89,Rajkot,Munjka,2728,5,4,1,0,1,0,137.4
+90,Gandhinagar,GIFT City,1290,3,3,0,0,1,1,100.94
+91,Rajkot,Bhakti Nagar,1028,4,4,1,1,0,0,70.61
+92,Rajkot,Madhapar,1631,4,4,0,0,1,0,96.42
+93,Ahmedabad,Thaltej,2028,4,4,1,1,1,0,131.25
+94,Gandhinagar,Sargasan,1396,2,3,0,1,0,0,80.4
+95,Gandhinagar,Vavol,1745,3,3,1,0,0,1,83.71
+96,Rajkot,Madhapar,2437,3,3,1,0,1,1,110.75
+97,Gandhinagar,Koba,1911,5,5,0,1,1,0,107.43
+98,Rajkot,Raiya,2734,4,4,0,1,0,0,139.83
+99,Rajkot,Munjka,1097,4,3,1,1,0,1,89.96
+100,Ahmedabad,Gota,2038,4,3,0,0,1,1,97.66
+101,Gandhinagar,Vavol,1908,4,4,0,1,0,0,90.99
+102,Ahmedabad,Vastral,2982,3,3,0,1,0,1,100.65
+103,Rajkot,Madhapar,2260,4,4,0,0,1,0,112.66
+104,Rajkot,Sadar,1606,3,3,1,1,1,0,92.16
+105,Ahmedabad,Gota,2717,2,2,0,1,1,1,105.78
+106,Rajkot,Vavdi,2416,3,3,0,1,0,1,97.84
+107,Gandhinagar,GIFT City,2217,2,3,0,1,0,1,129.44
+108,Rajkot,Sadar,948,3,2,0,1,0,0,69.89
+109,Rajkot,Raiya,907,4,3,0,0,0,0,77.27
+110,Ahmedabad,Chandkheda,1304,4,3,1,0,0,1,75.23
+111,Ahmedabad,Bodakdev,1239,1,1,1,0,0,1,73.04
+112,Rajkot,Bhakti Nagar,2854,2,2,1,1,1,0,106.85
+113,Ahmedabad,Thaltej,2835,3,3,0,0,1,1,145.2
+114,Ahmedabad,Shela,2516,2,2,1,0,0,0,97.25
+115,Rajkot,Ghanteshwer,2946,4,4,1,1,1,0,119.92
+116,Ahmedabad,Ambli,2461,3,2,1,1,1,1,138.34
+117,Ahmedabad,Chandkheda,2448,3,3,1,0,1,0,90.39
+118,Ahmedabad,Satellite,2468,2,2,0,0,1,0,119.2
+119,Rajkot,Bhakti Nagar,910,5,5,1,0,0,0,73.68
+120,Ahmedabad,Vastrapur,2134,4,4,0,1,0,1,131.89
+121,Rajkot,Ghanteshwer,2980,1,2,1,0,0,1,96.68
+122,Gandhinagar,Koba,2137,1,1,1,0,0,0,74.34
+123,Rajkot,Mavdi,2240,3,3,0,1,1,1,111.37
+124,Rajkot,Ghanteshwer,1047,4,3,0,0,0,1,62.89
+125,Gandhinagar,Vavol,2510,3,2,0,1,1,0,95.84
+126,Rajkot,Ghanteshwer,2693,3,3,0,0,1,0,92.07
+127,Gandhinagar,Raysan,1262,4,4,1,0,0,1,91.97
+128,Ahmedabad,Prahlad Nagar,2257,3,2,1,0,1,0,116.68
+129,Gandhinagar,Kudasan,1982,3,3,1,1,1,0,112.0
+130,Gandhinagar,Sargasan,2584,4,4,0,1,0,0,128.1
+131,Gandhinagar,PDPU Road,1022,3,3,1,0,1,0,70.47
+132,Rajkot,Yogi Nagar,2873,3,3,1,0,0,0,126.7
+133,Ahmedabad,Science City,1326,4,3,0,1,1,1,102.79
+134,Rajkot,Ghanteshwer,2023,4,4,0,1,0,1,91.64
+135,Gandhinagar,Randesan,930,3,2,1,1,1,0,69.4
+136,Gandhinagar,Kudasan,1069,3,3,1,1,0,1,89.11
+137,Rajkot,Mavdi,2016,3,3,0,0,1,0,97.83
+138,Gandhinagar,Kudasan,2766,3,2,0,1,1,0,129.36
+139,Gandhinagar,Adalaj,2374,4,3,1,0,1,0,102.91
+140,Gandhinagar,Randesan,1732,4,3,1,0,0,1,95.15
+141,Rajkot,Bhakti Nagar,1228,3,2,1,1,1,0,75.17
+142,Rajkot,Vavdi,1082,3,3,1,0,1,1,64.81
+143,Ahmedabad,Chandkheda,2691,2,2,0,0,1,0,90.72
+144,Rajkot,Vavdi,854,3,3,0,1,0,0,54.57
+145,Rajkot,Ghanteshwer,1378,4,3,1,1,0,1,80.01
+146,Rajkot,Mota Mava,1658,3,3,1,0,1,1,96.36
+147,Gandhinagar,Adalaj,2759,3,2,0,0,1,0,103.24
+148,Gandhinagar,PDPU Road,1120,4,3,1,0,0,1,81.39
+149,Rajkot,Munjka,2491,2,2,1,1,0,1,108.76
+150,Rajkot,Sadar,1665,3,2,1,0,0,1,93.5
+151,Rajkot,Sadar,1298,2,2,1,0,1,1,78.75
+152,Ahmedabad,Bodakdev,1748,2,2,1,0,1,0,103.16
+153,Ahmedabad,Bopal,2419,3,3,1,0,0,1,108.27
+154,Ahmedabad,Bopal,1288,2,2,1,0,1,0,72.9
+155,Ahmedabad,Nikol,977,5,4,1,1,0,1,79.54
+156,Gandhinagar,GIFT City,2162,4,4,0,0,1,0,135.31
+157,Rajkot,Sadar,1417,4,4,1,0,0,0,91.43
+158,Gandhinagar,GIFT City,1901,2,2,0,1,1,1,124.03
+159,Rajkot,Mota Mava,1737,1,2,0,1,1,0,88.17
+160,Gandhinagar,Randesan,1209,4,4,1,1,1,1,98.82
+161,Gandhinagar,Vavol,2204,4,4,0,1,0,1,99.28
+162,Ahmedabad,Gota,2015,2,2,1,1,1,1,87.07
+163,Gandhinagar,Koba,2531,1,1,1,1,0,0,94.99
+164,Gandhinagar,Koba,2801,4,3,0,0,1,0,111.29
+165,Ahmedabad,Nikol,2183,3,3,0,0,1,1,85.43
+166,Ahmedabad,Prahlad Nagar,2868,3,3,1,0,0,0,136.75
+167,Gandhinagar,PDPU Road,2285,4,3,1,1,1,0,124.9
+168,Gandhinagar,Vavol,1519,2,2,1,0,1,0,71.72
+169,Gandhinagar,Koba,965,3,3,1,0,0,1,66.21
+170,Ahmedabad,Ambli,1268,2,3,0,1,1,1,96.55
+171,Rajkot,Munjka,1053,2,3,1,1,1,0,72.46
+172,Gandhinagar,Kudasan,2543,3,3,1,0,0,0,119.82
+173,Ahmedabad,Vastrapur,2822,2,2,0,1,0,1,136.91
+174,Rajkot,Madhapar,1023,2,2,0,1,0,0,64.86
+175,Rajkot,Munjka,1401,3,3,1,0,0,0,78.0
+176,Rajkot,Ghanteshwer,1784,3,3,1,0,1,1,83.96
+177,Gandhinagar,Vavol,1703,4,4,1,1,0,0,83.31
+178,Gandhinagar,Vavol,2602,2,2,1,1,1,1,97.83
+179,Gandhinagar,PDPU Road,3000,2,2,1,0,1,1,121.88
+180,Ahmedabad,Thaltej,1888,4,4,0,0,1,1,121.16
+181,Ahmedabad,Shela,2808,3,3,1,0,0,1,117.56
+182,Ahmedabad,Ambli,2145,1,1,1,1,1,0,113.78
+183,Gandhinagar,Sargasan,1783,4,4,1,0,1,0,108.41
+184,Ahmedabad,Nikol,2966,2,3,1,1,0,0,105.28
+185,Gandhinagar,Koba,2088,3,3,0,0,1,0,87.65
+186,Ahmedabad,Chandkheda,2640,3,2,0,1,1,0,97.93
+187,Rajkot,Madhapar,2077,3,3,1,1,1,0,105.64
+188,Rajkot,Yogi Nagar,2406,3,3,0,1,1,0,124.67
+189,Rajkot,Mota Mava,1398,3,3,1,0,0,0,83.19
+190,Rajkot,Yogi Nagar,1481,1,1,1,0,1,0,75.75
+191,Rajkot,Mota Mava,955,4,3,1,1,1,1,92.23
+192,Gandhinagar,PDPU Road,2102,3,3,1,1,0,0,103.2
+193,Gandhinagar,Raysan,1919,4,3,1,1,1,1,115.26
+194,Rajkot,Madhapar,1878,2,3,1,1,0,1,90.61
+195,Rajkot,Yogi Nagar,2118,4,4,1,0,0,1,123.55
+196,Rajkot,Madhapar,1262,2,2,0,0,0,0,60.92
+197,Gandhinagar,Koba,2634,2,2,0,0,1,1,101.62
+198,Ahmedabad,Gota,2015,2,2,0,0,0,0,74.59
+199,Ahmedabad,Thaltej,2326,4,3,1,0,0,1,135.57
+200,Ahmedabad,Chandkheda,1865,3,3,1,0,1,1,81.29
+201,Ahmedabad,Chandkheda,1365,4,4,0,0,1,1,77.09
+202,Ahmedabad,Science City,2360,4,4,0,1,0,0,132.22
+203,Gandhinagar,Koba,1716,1,1,0,1,1,1,74.92
+204,Rajkot,Ghanteshwer,746,2,2,0,0,0,1,43.95
+205,Gandhinagar,PDPU Road,1973,3,3,1,1,0,0,106.43
+206,Gandhinagar,Sargasan,2563,4,4,1,1,0,0,132.94
+207,Rajkot,Yogi Nagar,2852,3,3,1,0,0,0,132.9
+208,Rajkot,Mavdi,2898,2,2,1,0,0,1,108.43
+209,Rajkot,Mota Mava,927,3,3,1,1,0,1,79.0
+210,Gandhinagar,GIFT City,2321,2,2,0,0,0,1,123.28
+211,Ahmedabad,Thaltej,982,5,5,0,1,1,0,108.6
+212,Rajkot,Bhakti Nagar,2233,5,5,1,1,1,0,114.36
+213,Rajkot,Vavdi,1244,3,3,0,0,1,0,68.01
+214,Ahmedabad,Bodakdev,793,5,5,1,1,0,0,101.87
+215,Ahmedabad,South Bopal,1472,4,3,0,1,0,0,86.08
+216,Ahmedabad,Thaltej,2528,3,3,0,0,0,1,131.35
+217,Rajkot,Mavdi,931,2,2,0,1,1,0,61.91
+218,Ahmedabad,Bopal,2393,3,2,0,1,1,0,112.24
+219,Rajkot,Bhakti Nagar,2848,3,3,1,0,1,1,108.68
+220,Rajkot,Mota Mava,1687,4,4,0,1,0,1,108.07
+221,Rajkot,Vavdi,1249,3,3,0,1,0,1,73.32
+222,Ahmedabad,Ambli,911,2,2,0,0,0,1,67.4
+223,Gandhinagar,Randesan,762,2,2,0,1,0,0,55.86
+224,Ahmedabad,Chandkheda,1859,3,3,1,1,1,1,89.36
+225,Gandhinagar,Vavol,1103,4,4,1,0,1,1,74.07
+226,Rajkot,Mavdi,1297,1,2,1,1,0,0,65.54
+227,Gandhinagar,Raysan,2745,3,3,1,1,1,1,131.79
+228,Rajkot,Sadar,1393,2,3,0,0,0,0,76.86
+229,Rajkot,Raiya,726,3,3,0,0,0,0,62.17
+230,Gandhinagar,Koba,947,3,3,1,1,0,0,68.0
+231,Gandhinagar,GIFT City,768,3,3,1,0,1,0,80.35
+232,Ahmedabad,Prahlad Nagar,1687,2,2,1,1,1,0,97.56
+233,Gandhinagar,Vavol,1696,5,4,1,0,0,0,85.22
+234,Gandhinagar,PDPU Road,2649,2,2,0,0,1,1,113.2
+235,Gandhinagar,Kudasan,2863,4,3,0,1,1,0,146.08
+236,Rajkot,Madhapar,2924,3,2,0,1,0,0,121.54
+237,Rajkot,Bhakti Nagar,1015,2,2,1,1,1,0,66.56
+238,Rajkot,Yogi Nagar,2751,4,4,0,0,1,0,139.28
+239,Gandhinagar,Adalaj,2036,1,1,1,1,0,1,80.79
+240,Gandhinagar,Adalaj,1460,3,3,1,0,1,0,78.01
+241,Ahmedabad,South Bopal,1331,3,3,0,1,1,1,82.88
+242,Ahmedabad,Gota,2521,3,3,0,0,0,0,93.38
+243,Rajkot,Vavdi,2798,3,2,0,1,0,1,107.27
+244,Ahmedabad,Gota,2394,3,2,0,0,1,0,89.55
+245,Gandhinagar,Randesan,2719,2,2,1,1,1,1,119.58
+246,Ahmedabad,Nikol,1730,4,4,0,1,0,0,78.95
+247,Gandhinagar,Koba,2256,4,4,1,1,1,0,109.4
+248,Rajkot,Mavdi,2662,3,3,1,1,1,0,117.94
+249,Gandhinagar,Adalaj,2195,2,2,0,0,1,0,83.07
+250,Gandhinagar,Kudasan,2375,3,2,1,0,1,0,119.33
+251,Gandhinagar,Kudasan,2539,5,5,1,1,0,1,146.92
+252,Rajkot,Ghanteshwer,1048,2,2,1,0,0,1,60.35
+253,Gandhinagar,Adalaj,1133,1,1,0,0,1,1,53.72
+254,Rajkot,Ghanteshwer,2749,2,2,1,0,1,1,102.16
+255,Ahmedabad,Vastrapur,1280,3,3,1,0,1,1,94.76
+256,Gandhinagar,Vavol,2006,2,2,0,0,1,0,78.59
+257,Ahmedabad,Bopal,2813,2,2,1,1,1,0,119.27
+258,Rajkot,Munjka,1463,3,3,1,0,0,1,88.21
+259,Gandhinagar,GIFT City,1579,2,2,0,0,1,1,99.84
+260,Ahmedabad,South Bopal,2704,3,3,1,1,1,0,122.37
+261,Gandhinagar,Sargasan,1918,4,3,0,1,0,0,105.35
+262,Ahmedabad,Nikol,1279,3,3,0,1,1,0,68.68
+263,Rajkot,Munjka,2972,2,2,0,0,1,1,123.89
+264,Gandhinagar,GIFT City,2684,2,3,1,1,1,1,154.44
+265,Gandhinagar,Vavol,1385,2,2,0,1,0,1,63.78
+266,Gandhinagar,Sargasan,2573,3,3,0,0,1,1,122.79
+267,Ahmedabad,Motera,2937,2,3,0,0,1,0,120.45
+268,Gandhinagar,Kudasan,2498,4,3,0,0,1,1,125.73
+269,Ahmedabad,Ambli,1547,4,4,1,0,1,1,114.07
+270,Gandhinagar,PDPU Road,1090,2,3,0,1,0,0,66.57
+271,Rajkot,Sadar,1713,4,4,1,0,1,1,103.16
+272,Ahmedabad,Satellite,2350,3,3,1,1,1,1,137.1
+273,Rajkot,Yogi Nagar,2577,3,3,1,0,1,0,130.18
+274,Ahmedabad,Shela,1799,3,3,1,0,1,1,98.97
+275,Ahmedabad,Thaltej,1107,3,3,0,0,0,1,85.34
+276,Gandhinagar,Raysan,1240,4,4,0,1,0,1,88.38
+277,Gandhinagar,Sargasan,912,3,3,0,1,0,0,67.63
+278,Gandhinagar,Kudasan,1243,3,3,1,0,0,1,88.32
+279,Gandhinagar,Sargasan,2656,2,3,0,0,0,1,113.69
+280,Gandhinagar,Sargasan,2267,4,3,0,0,0,0,111.73
+281,Rajkot,Mavdi,1320,4,4,0,0,0,0,82.32
+282,Rajkot,Bhakti Nagar,2139,5,5,0,0,1,0,99.78
+283,Rajkot,Ghanteshwer,1867,4,3,1,0,0,1,82.86
+284,Ahmedabad,Bopal,2727,3,2,1,0,0,1,117.62
+285,Ahmedabad,Vastral,2423,3,3,0,1,0,0,87.96
+286,Ahmedabad,South Bopal,1583,1,1,1,1,1,1,83.52
+287,Ahmedabad,Prahlad Nagar,1836,2,2,0,0,1,1,99.24
+288,Rajkot,Yogi Nagar,1970,3,3,0,0,0,0,104.84
+289,Ahmedabad,Motera,925,3,3,0,0,0,0,68.23
+290,Ahmedabad,Shela,2120,3,3,1,0,1,0,102.95
+291,Gandhinagar,Kudasan,820,3,3,1,0,1,0,73.63
+292,Rajkot,Sadar,927,3,3,0,1,0,1,75.83
+293,Rajkot,Yogi Nagar,1635,4,3,0,0,0,0,96.33
+294,Gandhinagar,Sargasan,1433,4,3,1,0,1,0,94.51
+295,Rajkot,Sadar,1811,4,4,0,0,0,0,100.15
+296,Ahmedabad,Vastral,982,4,4,1,1,0,1,63.5
+297,Ahmedabad,Gota,1944,4,3,1,1,1,0,99.44
+298,Rajkot,Mavdi,1316,1,1,0,0,1,0,66.15
+299,Ahmedabad,Vastral,1959,2,2,1,1,0,0,76.4
+300,Ahmedabad,Thaltej,1648,4,4,1,1,0,0,117.51
+301,Rajkot,Bhakti Nagar,1006,3,2,1,0,0,1,59.8
+302,Gandhinagar,Adalaj,2036,3,3,0,0,0,0,85.35
+303,Rajkot,Yogi Nagar,1336,2,3,1,1,1,0,88.35
+304,Ahmedabad,Motera,1962,3,2,0,0,1,0,94.17
+305,Gandhinagar,Sargasan,1073,4,4,1,0,1,1,93.5
+306,Ahmedabad,Bodakdev,2356,4,3,0,1,0,0,136.08
+307,Ahmedabad,Bopal,1235,2,3,1,0,1,0,67.19
+308,Ahmedabad,Ambli,2516,4,3,1,0,0,1,136.58
+309,Rajkot,Bhakti Nagar,2317,3,3,1,0,1,0,100.31
+310,Gandhinagar,Randesan,2526,4,3,0,1,1,1,128.31
+311,Gandhinagar,GIFT City,1059,2,2,1,0,0,0,85.56
+312,Rajkot,Sadar,2664,3,3,1,1,1,1,124.66
+313,Gandhinagar,Raysan,820,4,4,0,1,1,0,84.86
+314,Ahmedabad,Bopal,1687,2,2,0,1,1,0,80.49
+315,Rajkot,Sadar,2169,4,3,1,0,0,1,111.17
+316,Ahmedabad,Shela,855,2,2,0,0,1,0,55.21
+317,Rajkot,Mavdi,1234,3,2,1,0,0,0,71.96
+318,Ahmedabad,Vastrapur,2855,4,3,1,1,0,1,149.49
+319,Ahmedabad,Science City,2489,4,4,1,0,1,0,134.93
+320,Ahmedabad,Vastral,1956,4,4,0,0,0,1,84.62
+321,Rajkot,Raiya,1445,3,3,0,0,1,0,88.86
+322,Ahmedabad,Bopal,2120,5,4,0,1,1,0,112.7
+323,Ahmedabad,Satellite,2135,2,2,0,0,1,1,114.77
+324,Ahmedabad,Maninagar,2719,4,4,1,0,1,0,114.6
+325,Ahmedabad,Thaltej,1907,1,1,0,0,1,0,98.46
+326,Ahmedabad,Satellite,2940,4,3,1,1,0,1,161.98
+327,Ahmedabad,Maninagar,1343,2,2,0,0,1,1,71.18
+328,Gandhinagar,Raysan,1092,1,2,1,0,0,1,58.49
+329,Ahmedabad,Gota,2667,2,2,0,0,1,0,94.63
+330,Ahmedabad,Gota,2328,3,3,1,0,1,0,95.2
+331,Gandhinagar,Koba,1464,3,3,1,1,1,0,87.97
+332,Rajkot,Raiya,1319,4,3,0,1,1,0,98.31
+333,Gandhinagar,PDPU Road,2414,5,5,0,1,1,0,129.33
+334,Rajkot,Raiya,2756,3,3,0,0,1,0,134.37
+335,Ahmedabad,Ambli,1489,2,3,0,1,0,0,97.03
+336,Gandhinagar,Koba,974,2,3,1,1,1,0,70.22
+337,Rajkot,Ghanteshwer,2840,4,3,1,0,0,0,108.05
+338,Rajkot,Yogi Nagar,1871,4,4,1,1,1,1,121.65
+339,Gandhinagar,GIFT City,1405,2,2,1,0,1,1,101.68
+340,Ahmedabad,Shela,1800,4,3,1,1,1,1,108.73
+341,Rajkot,Yogi Nagar,1633,2,3,1,1,1,0,93.63
+342,Ahmedabad,Maninagar,2684,4,4,0,0,0,1,115.2
+343,Gandhinagar,Sargasan,2847,4,3,0,0,0,0,126.5
+344,Gandhinagar,GIFT City,2176,4,4,1,1,1,0,150.17
+345,Ahmedabad,Nikol,2702,3,2,1,1,1,0,104.74
+346,Gandhinagar,Kudasan,1867,1,1,0,0,0,0,82.81
+347,Gandhinagar,Adalaj,2802,1,2,0,1,0,0,95.36
+348,Ahmedabad,Bopal,1733,3,3,1,1,1,1,97.88
+349,Ahmedabad,Motera,1937,3,3,1,0,0,1,101.17
+350,Rajkot,Ghanteshwer,1857,2,2,1,0,1,1,79.29
+351,Gandhinagar,Randesan,1923,2,2,0,1,1,0,94.45
+352,Rajkot,Mota Mava,1910,2,3,1,1,0,0,94.63
+353,Rajkot,Mavdi,2889,3,3,1,1,0,0,119.57
+354,Gandhinagar,Sargasan,1759,4,3,1,0,0,1,100.95
+355,Gandhinagar,Adalaj,2057,3,3,1,1,0,1,89.59
+356,Rajkot,Ghanteshwer,991,3,2,0,1,1,1,60.44
+357,Ahmedabad,Prahlad Nagar,1520,3,3,1,0,1,0,100.07
+358,Gandhinagar,Koba,1424,3,2,0,1,1,0,81.21
+359,Ahmedabad,Science City,2705,4,3,0,1,1,1,141.64
+360,Gandhinagar,Adalaj,719,1,1,1,0,1,0,40.16
+361,Ahmedabad,Bopal,1626,3,3,1,0,0,1,86.52
+362,Gandhinagar,Sargasan,967,4,4,1,1,1,1,96.13
+363,Ahmedabad,Chandkheda,2707,3,2,0,1,0,0,93.75
+364,Ahmedabad,Ambli,789,3,2,0,1,0,1,81.61
+365,Gandhinagar,PDPU Road,899,3,2,0,0,0,0,61.29
+366,Gandhinagar,Kudasan,2941,2,2,0,0,1,1,129.6
+367,Rajkot,Vavdi,1805,3,3,0,1,0,0,77.46
+368,Ahmedabad,Shela,1513,3,3,0,1,1,1,86.12
+369,Rajkot,Mota Mava,1550,3,3,1,0,0,0,88.44
+370,Ahmedabad,Shela,1310,4,3,0,1,0,1,90.32
+371,Gandhinagar,Randesan,2601,2,2,0,1,1,1,112.81
+372,Ahmedabad,Vastrapur,887,1,1,0,1,1,1,71.77
+373,Gandhinagar,Kudasan,2226,4,3,0,1,1,1,123.77
+374,Gandhinagar,Vavol,2427,3,2,0,0,0,0,83.14
+375,Rajkot,Mota Mava,2494,2,3,1,0,0,1,114.76
+376,Ahmedabad,Maninagar,2505,1,1,1,0,0,1,90.82
+377,Rajkot,Ghanteshwer,1090,3,3,0,1,1,1,65.41
+378,Rajkot,Ghanteshwer,923,1,1,1,1,0,0,51.08
+379,Gandhinagar,Raysan,2055,5,4,0,1,1,0,116.09
+380,Gandhinagar,Vavol,1060,4,4,1,0,1,0,66.97
+381,Gandhinagar,GIFT City,2982,3,2,1,0,1,1,160.6
+382,Ahmedabad,Bopal,2561,3,3,1,1,1,0,113.0
+383,Rajkot,Mavdi,708,3,3,1,1,0,0,68.35
+384,Gandhinagar,Sargasan,2376,2,2,0,0,1,0,105.23
+385,Ahmedabad,Chandkheda,1141,4,3,0,1,1,0,76.21
+386,Ahmedabad,Thaltej,2966,4,4,0,0,0,0,151.17
+387,Rajkot,Ghanteshwer,2018,3,3,1,0,1,1,92.44
+388,Gandhinagar,Vavol,1246,2,2,1,0,0,0,59.58
+389,Gandhinagar,Koba,1243,5,4,1,0,1,1,89.9
+390,Rajkot,Bhakti Nagar,2886,2,3,0,0,0,1,97.45
+391,Rajkot,Raiya,1518,2,2,1,1,0,0,90.25
+392,Gandhinagar,Raysan,2916,1,1,0,0,1,0,110.4
+393,Rajkot,Madhapar,892,4,4,1,1,0,0,80.96
+394,Ahmedabad,Motera,1623,4,4,0,0,1,1,97.38
+395,Rajkot,Yogi Nagar,1465,5,4,1,0,1,1,110.42
+396,Ahmedabad,Science City,1744,1,1,0,0,0,1,82.69
+397,Rajkot,Ghanteshwer,1933,3,3,1,0,1,0,87.46
+398,Rajkot,Yogi Nagar,2769,2,3,0,1,0,0,124.9
+399,Gandhinagar,Koba,1902,2,3,0,0,1,1,82.95
+400,Rajkot,Ghanteshwer,1698,5,5,1,0,1,1,93.61
+401,Gandhinagar,GIFT City,2817,4,4,1,1,0,1,173.78
+402,Ahmedabad,Chandkheda,2804,2,2,0,0,0,0,90.89
+403,Ahmedabad,Maninagar,1125,2,3,0,0,0,1,64.29
+404,Ahmedabad,Satellite,1000,2,2,0,0,1,1,75.0
+405,Rajkot,Bhakti Nagar,2473,3,3,0,0,0,0,94.94
+406,Ahmedabad,Nikol,2759,2,2,0,1,1,1,97.17
+407,Rajkot,Raiya,2641,2,2,0,1,1,0,121.01
+408,Rajkot,Sadar,745,3,3,0,0,0,0,60.81
+409,Gandhinagar,PDPU Road,2942,4,4,0,1,0,1,140.26
+410,Rajkot,Munjka,1359,2,2,0,0,0,0,74.05
+411,Rajkot,Mota Mava,2951,2,2,1,0,0,1,125.62
+412,Gandhinagar,Sargasan,1660,2,2,0,1,1,1,91.36
+413,Rajkot,Madhapar,1324,3,3,1,1,0,0,80.76
+414,Ahmedabad,Maninagar,1833,4,3,1,1,1,1,100.41
+415,Gandhinagar,Vavol,2959,2,2,1,0,0,1,103.07
+416,Rajkot,Yogi Nagar,1008,4,3,1,0,0,1,84.55
+417,Rajkot,Mota Mava,1308,3,2,1,0,1,0,80.67
+418,Rajkot,Raiya,1678,4,3,0,1,0,0,105.2
+419,Rajkot,Munjka,2680,4,3,0,1,0,0,123.6
+420,Ahmedabad,Thaltej,1546,3,3,1,1,1,0,104.44
+421,Rajkot,Sadar,1122,4,4,1,0,1,1,86.81
+422,Rajkot,Yogi Nagar,2816,2,2,1,1,1,1,135.22
+423,Rajkot,Raiya,2755,4,4,0,0,0,1,134.37
+424,Ahmedabad,Science City,2183,3,2,0,1,1,0,115.11
+425,Gandhinagar,Vavol,1563,3,3,1,0,0,0,68.35
+426,Rajkot,Munjka,1251,3,2,0,0,0,1,80.33
+427,Rajkot,Bhakti Nagar,776,4,4,0,0,1,1,69.95
+428,Ahmedabad,Bopal,2382,3,3,0,1,0,1,112.55
+429,Rajkot,Ghanteshwer,981,2,3,0,0,0,0,50.2
+430,Rajkot,Bhakti Nagar,1312,3,2,1,0,0,0,66.28
+431,Ahmedabad,Bodakdev,2467,3,3,0,1,0,1,142.76
+432,Gandhinagar,Koba,1100,3,3,1,0,0,1,70.48
+433,Rajkot,Bhakti Nagar,1755,2,2,0,0,1,0,75.11
+434,Gandhinagar,Adalaj,2183,2,3,1,1,1,1,97.42
+435,Rajkot,Bhakti Nagar,1534,3,3,1,0,1,1,78.17
+436,Gandhinagar,Koba,2330,4,3,0,1,0,0,101.39
+437,Gandhinagar,Koba,2955,3,3,0,0,1,0,116.92
+438,Ahmedabad,Shela,2483,2,2,0,1,0,0,102.87
+439,Gandhinagar,PDPU Road,1873,4,3,0,1,1,0,102.62
+440,Rajkot,Vavdi,1871,2,2,0,0,1,0,75.26
+441,Ahmedabad,Satellite,1830,4,4,1,1,0,0,123.97
+442,Ahmedabad,Satellite,2951,2,2,1,1,0,0,139.1
+443,Gandhinagar,GIFT City,1769,2,2,0,1,1,0,114.54
+444,Gandhinagar,PDPU Road,1724,3,3,1,0,1,1,98.83
+445,Rajkot,Raiya,2674,2,2,1,0,0,1,120.14
+446,Gandhinagar,PDPU Road,2894,1,1,0,1,0,1,113.52
+447,Gandhinagar,Kudasan,2971,4,4,1,1,0,1,146.21
+448,Rajkot,Mavdi,2743,4,3,0,1,0,0,117.08
+449,Ahmedabad,Nikol,1338,4,3,0,1,0,0,74.0
+450,Gandhinagar,Koba,2716,4,4,1,0,1,1,118.12
+451,Rajkot,Munjka,921,3,3,1,0,1,1,79.71
+452,Ahmedabad,Motera,1193,3,3,1,0,0,0,75.52
+453,Ahmedabad,Chandkheda,2181,3,3,0,1,0,1,89.19
+454,Rajkot,Sadar,2198,2,3,0,1,1,1,110.09
+455,Gandhinagar,Vavol,1436,3,3,0,0,1,0,70.7
+456,Gandhinagar,Raysan,1297,4,3,1,0,0,1,88.23
+457,Rajkot,Vavdi,2887,4,4,1,1,0,1,112.95
+458,Ahmedabad,Thaltej,1582,4,4,0,1,1,1,117.92
+459,Rajkot,Vavdi,1755,3,3,0,1,0,0,83.28
+460,Gandhinagar,Koba,2031,3,3,1,0,1,1,96.41
+461,Ahmedabad,Science City,2081,3,3,1,0,0,0,107.07
+462,Gandhinagar,Koba,1893,4,4,1,1,1,1,104.46
+463,Ahmedabad,Bodakdev,1212,4,4,0,0,0,1,97.99
+464,Ahmedabad,Shela,2946,2,3,0,0,1,0,109.73
+465,Gandhinagar,Randesan,1639,2,2,1,0,0,0,73.86
+466,Rajkot,Sadar,2032,4,4,1,1,0,0,112.09
+467,Gandhinagar,Adalaj,2844,3,3,1,1,1,0,116.79
+468,Gandhinagar,Randesan,2198,3,2,1,0,0,0,97.5
+469,Gandhinagar,PDPU Road,734,3,3,1,1,0,1,73.76
+470,Rajkot,Mavdi,729,3,2,1,1,1,0,63.47
+471,Rajkot,Bhakti Nagar,2249,2,2,1,0,1,1,92.45
+472,Rajkot,Madhapar,2391,2,2,0,0,1,0,101.25
+473,Rajkot,Mota Mava,1814,4,4,0,1,0,0,99.45
+474,Rajkot,Raiya,1461,5,5,1,0,1,0,108.16
+475,Ahmedabad,Bodakdev,2721,2,3,1,1,1,1,150.65
+476,Ahmedabad,Chandkheda,1028,4,3,0,1,1,0,69.46
+477,Ahmedabad,Ambli,1724,4,3,0,0,1,1,113.8
+478,Ahmedabad,Ambli,2587,4,3,0,1,1,1,153.74
+479,Ahmedabad,Thaltej,2951,3,3,1,1,0,1,157.58
+480,Rajkot,Mavdi,1162,2,3,1,0,0,1,69.9
+481,Gandhinagar,Raysan,736,5,5,0,1,0,0,78.18
+482,Ahmedabad,Chandkheda,945,2,2,0,0,1,0,49.53
+483,Rajkot,Sadar,2496,4,3,1,1,0,1,128.73
+484,Gandhinagar,Vavol,2989,2,3,0,0,1,1,106.59
+485,Gandhinagar,PDPU Road,1356,2,2,1,1,1,1,83.73
+486,Rajkot,Vavdi,2252,4,3,1,0,1,0,98.1
+487,Rajkot,Bhakti Nagar,1477,3,3,0,1,1,1,82.69
+488,Ahmedabad,Vastrapur,2843,3,2,0,0,0,0,127.41
+489,Ahmedabad,Vastrapur,830,3,3,1,1,0,1,79.14
+490,Rajkot,Yogi Nagar,753,4,3,1,0,1,0,76.2
+491,Rajkot,Bhakti Nagar,2211,4,3,1,0,0,1,93.24
+492,Ahmedabad,Vastrapur,1114,4,4,0,0,0,0,89.15
+493,Rajkot,Bhakti Nagar,1132,4,4,1,1,0,0,78.66
+494,Rajkot,Bhakti Nagar,2767,3,2,1,1,1,1,116.46
+495,Gandhinagar,Adalaj,2024,3,3,0,1,1,1,98.89
+496,Gandhinagar,Adalaj,700,4,4,0,0,1,0,59.48
+497,Ahmedabad,Ambli,1989,1,2,1,0,0,0,98.45
+498,Ahmedabad,Prahlad Nagar,1785,3,3,0,0,1,1,101.28
+499,Gandhinagar,Raysan,1016,4,4,0,1,0,1,79.98
+500,Rajkot,Bhakti Nagar,1021,4,4,1,1,1,0,80.8
